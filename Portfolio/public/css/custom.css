@@ -1,0 +1,25 @@
+/*Layout Template*/
+#header > * {
+    margin-top: 2.0rem;
+}
+
+.icon-blockquote {
+    line-height: 22px;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: cooper-black-std;
+}
+.icon-normal-font-size {
+    font-size: 0.95rem;
+    padding-right: 4px;
+}
+
+.icon-medium-font-size {
+    font-size: 1.50rem;
+    padding-right: 4px;
+}
+
+
+ul.icons li {
+    vertical-align: middle;
+}
